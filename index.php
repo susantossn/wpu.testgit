@@ -7,3 +7,4 @@ simple
 bandung
 jakarta
 surabaya
+medan irian
