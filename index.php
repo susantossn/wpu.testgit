@@ -4,3 +4,6 @@ ccccc
 hello
 lorem
 simple
+bandung
+jakarta
+surabaya
